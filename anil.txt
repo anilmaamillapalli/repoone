@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 18D1-C911
+
+ Directory of C:\Git\javacode
+
+11/28/2017  00:24    <DIR>          .
+11/28/2017  00:24    <DIR>          ..
+11/28/2017  00:24                 0 anil.txt
+11/28/2017  00:21               428 ram.txt
+11/27/2017  23:35                13 tesetfile.txt
+11/28/2017  00:13               428 text123.txt
+               4 File(s)            869 bytes
+               2 Dir(s)  35,614,183,424 bytes free
